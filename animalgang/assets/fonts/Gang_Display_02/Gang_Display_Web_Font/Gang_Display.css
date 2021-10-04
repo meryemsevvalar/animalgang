@@ -1,0 +1,12 @@
+/* Webfont: GangDisplay */@font-face {
+    font-family: 'GangDisplay';
+    src: url('Gang_Display.eot'); /* IE9 Compat Modes */
+    src: url('Gang_Display.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Gang_Display.woff') format('woff'), /* Modern Browsers */
+         url('Gang_Display.woff2') format('woff2'), /* Modern Browsers */
+         url('Gang_Display.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

@@ -1,0 +1,73 @@
+ body {
+    margin:0px;
+    padding:0px;
+    overflow-x: hidden;
+}
+
+
+.navbar1 {
+    float: left;
+    font-size: 12px;
+    list-style-type: none;
+    padding-top: 20px;
+    font-weight: 500;
+}
+
+.navbar2 {
+    float: right;
+    font-size: 12px;
+    list-style-type: none;
+    padding-top: 20px;
+    margin-right: 40px;
+    font-weight: 500;
+}
+
+li {
+    display: inline;
+}
+
+nav a{
+    color: black;
+    padding-right: 20px;
+}
+
+nav a:hover{
+    color: rgb(191, 141, 206);
+}
+
+.logo{
+    position: absolute;
+    top: 0;
+    margin-left: 375px;
+}
+
+#dog1 {
+    width: 600px;
+    right: 10px; 
+    position: absolute;
+    
+   
+}
+
+#dog2 {
+    width: 600px;
+    position: absolute;
+}
+
+#midtext {
+    text-align: center;
+    margin-top: 200px;
+    font-weight: 500;
+    color: #0acf83;
+    font-size: 21px;
+}
+
+#midtext1 {
+    text-align: center;
+    font-weight: 900;
+    color: #a259ff;
+    font-size: 55px;
+    line-height: 3rem;
+}
+
+

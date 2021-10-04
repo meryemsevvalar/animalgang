@@ -1,0 +1,81 @@
+html,body {
+    background-color: #222222 !important;
+    margin:0px;
+    padding:0px;
+    overflow-x: hidden;
+}
+
+
+.row {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    
+}
+.fa-twitter {
+    color: white;
+    font-size: 50px;
+    margin-left: 120px;
+    
+  }
+
+.go {
+    color: #c4c4c4;
+    font-size: 10px;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: 0.02rem;
+    
+}
+  
+.follow {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 600;
+    letter-spacing: 0.05rem;
+}
+
+.medium {
+    width: 50px;
+    margin-left: 120px;
+}
+
+.telegram {
+    width: 50px;
+    margin-left: 105px;
+}
+
+.discord {
+    width: 50px;
+    margin-left: 110px;
+}
+
+.container-fluid{
+    margin-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 100px;
+}
+
+hr.solid {
+    border-top: 4px solid #f24e1e;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+a {
+    color: white;
+    margin-left: 30px;
+    font-size: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+a:hover {
+    color: white;
+}
+
+.logo5 {
+    margin-left: 100px;
+    width: 100px;
+}
